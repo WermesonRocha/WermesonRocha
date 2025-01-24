@@ -1,6 +1,6 @@
-# Olá, me chamo Wermeson Rocha! 🤙🏿
+# Saudações, Wermeson Rocha! 🤙🏿
 
-Sou formado em Ciência da Computação pela Universidade Federal do Ceará e atuo como desenvolvedor fullstack. Tenho experiência em diversas linguagens e frameworks, e estou sempre em busca de novos desafios e oportunidades para aprender e crescer profissionalmente.
+Formado em Ciência da Computação pela Universidade Federal do Ceará, atuo como desenvolvedor fullstack. Tenho experiência em diversas linguagens e frameworks, e estou sempre em busca de novos desafios e oportunidades para aprender e crescer profissionalmente.
 
 ## 🚀 Habilidades Técnicas
 
@@ -25,7 +25,6 @@ Sou formado em Ciência da Computação pela Universidade Federal do Ceará e at
 
 <div align="center">
   <a href="https://github.com/WermesonRocha">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WermesonRocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WermesonRocha&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
   </a>
 </div>
