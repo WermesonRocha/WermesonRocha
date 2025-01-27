@@ -23,7 +23,7 @@ Formado em Ciência da Computação pela Universidade Federal do Ceará, atuo co
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
+<div align="start">
   <a href="https://github.com/WermesonRocha">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WermesonRocha&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
   </a>
